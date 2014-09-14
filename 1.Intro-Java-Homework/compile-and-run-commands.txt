@@ -1,0 +1,3 @@
+>cd \Intro-Java-Homework\src\
+>"C:\Program Files\Java\jdk1.8.0_20\bin"\javac SumTwoNumbers.java
+>java SumTwoNumbers

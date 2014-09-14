@@ -29,7 +29,7 @@ public class PointsInsideFigure {
 	        	}
 	        }
 	        
-		}//end while
+		} //end while loop
 	}//end of main
 
 }// end of class

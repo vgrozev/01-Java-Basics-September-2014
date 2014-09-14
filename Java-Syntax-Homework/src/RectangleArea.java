@@ -10,8 +10,8 @@ public class RectangleArea {
 		int a = userInput.nextInt();
 		int b = userInput.nextInt();
 		
-		int area = a*b;
-		System.out.println(area);
+		int rectArea = a*b;
+		System.out.println(rectArea);
 	}
 
 }

@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class TriangleArea {
 
 	public static void main(String[] args) {
@@ -26,5 +25,5 @@ public class TriangleArea {
 		
 		System.out.println(Math.abs(triangleArea));
 		
-	}// end of main
-}// end of class
+	} // end of main
+} // end of class

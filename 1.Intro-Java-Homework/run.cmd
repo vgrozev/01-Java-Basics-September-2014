@@ -1,0 +1,1 @@
+java -classpath  deck_of_cards.jar;lib\itextpdf-5.5.0.jar DeckOfCards

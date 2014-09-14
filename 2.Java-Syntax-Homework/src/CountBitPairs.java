@@ -17,7 +17,6 @@ public class CountBitPairs {
        			counter ++;
         	}
         }*/
-
 		while (n != 0) {
 
 			if ((n & 1) == prevBit) {

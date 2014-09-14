@@ -13,5 +13,4 @@ public class RectangleArea {
 		int rectArea = a*b;
 		System.out.println(rectArea);
 	}
-
 }

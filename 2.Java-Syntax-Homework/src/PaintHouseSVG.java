@@ -6,7 +6,6 @@ import javax.swing.text.BadLocationException;
 import javax.swing.text.html.HTMLDocument;
 import javax.swing.text.html.HTMLEditorKit;
 
-
 public class PaintHouseSVG {
 
 	public static void main(String[] args) throws IOException, BadLocationException {
